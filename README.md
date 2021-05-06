@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirisap22</h1>
 <h3 align="center">Study Computer Engineering at KMITL, Backend developer of GMTECH Solution Part., Ltd.</h3>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Microservices and PySpark**
 
 - 📫 How to reach me **boom.sirisap@gmail.com**
 

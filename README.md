@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.facebook.com/Sirisap.Siripattanakul" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/Facebook.svg" alt="sirisap siripattanakul" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/Sirisap.Siripattanakul" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/Facebook.svg" alt="sirisap siripattanakul" height="30" width="40" /></a> ![80%](https://progress-bar.dev/80)
  <a href="https://linkedin.com/in/sirisap siripattanakul" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/Linkedin.svg" alt="sirisap siripattanakul" height="30" width="30" /></a>
  <a href="https://www.leetcode.com/sirisap" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/LeetCode.svg" alt="sirisap" height="30" width="40" /></a>
  <a href="https://kaggle.com/sirisap" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/kaggle-icon.svg" alt="sirisap" height="30" width="30" /></a>

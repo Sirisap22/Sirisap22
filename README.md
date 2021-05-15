@@ -22,8 +22,8 @@
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://julialang.org" target="_blank"> <img src="https://github.com/Sirisap22/Sirisap22/blob/main/julia-language-icon.svg" alt="julia" width="40" height="40"/> </a> 
  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+ <a href="https://julialang.org" target="_blank"> <img src="https://github.com/Sirisap22/Sirisap22/blob/main/julia-language-icon.svg" alt="julia" width="40" height="40"/> </a>
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 <h3 align="left">Backend Tools:</h3>

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sirisap22</h1>
 <h3 align="center">Study Computer Engineering at KMITL</h3>
 
-- 📫 How to reach me **boom.sirisap@gmail.com**
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sirisap22&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirisap22&layout=compact&theme=dracula&no-bg=true&no-frame=true" alt="lebrancconvas" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

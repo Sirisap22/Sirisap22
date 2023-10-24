@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirisap22</h1>
 <h3 align="center">Study Computer Engineering at KMITL</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sirisap22&show_icons=true&theme=nightowl&locale=en" alt="lebrancconvas" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirisap22&layout=compact&theme=dracula&no-bg=true&no-frame=true" alt="lebrancconvas" /></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.facebook.com/Sirisap.Siripattanakul" target="blank"><img align="center" src="https://github.com/Sirisap22/Sirisap22/blob/main/Facebook.svg" alt="sirisap siripattanakul" height="30" width="40" /></a>
@@ -21,7 +18,6 @@
 </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://julialang.org" target="_blank"> <img src="https://github.com/Sirisap22/Sirisap22/blob/main/julia-language-icon.svg" alt="julia" width="40" height="40"/> </a>
 <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
 <h3 align="left">Backend Tools:</h3>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
